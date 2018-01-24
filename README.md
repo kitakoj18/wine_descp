@@ -36,21 +36,21 @@ The model has a cluster centers attribute that returns the coordinates of each o
 
 Below are the 15 clusters kMeans found and the top 10 words used in each. We can see how wines are generally described for each cluster. Cluster 6, for example, seems to describe a wine that's more citrusy and acidic.
 
-0 : berri, aroma, finish, plum, palat, flavor, feel, herbal, red, nose
-1 : blackberri, currant, dri, tannin, flavor, cherri, rich, oak, drink, wine
-2 : citrus, peach, finish, white, lemon, flavor, lime, palat, acid, wine
-3 : sampl, barrel, wine, tannin, fruit, ripe, wood, structur, juici, veri
-4 : appl, green, flavor, pear, finish, palat, citrus, wine, acid, aroma
-5 : wine, acid, fruiti, fresh, fruit, attract, drink, ripe, soft, red
-6 : light, fruit, wine, flavor, fresh, red, finish, cherri, acid, aroma
-7 : wine, fruit, cherri, flavor, finish, tannin, red, spice, berri, note
-8 : cabernet, sauvignon, blend, merlot, franc, petit, verdot, wine, syrah, cherri
-9 : pinot, noir, cherri, cola, silki, flavor, raspberri, dri, acid, drink
-10 : sweet, cherri, flavor, soft, simpl, tast, raspberri, like, candi, wine
-11 : black, cherri, palat, aroma, tannin, fruit, plum, pepper, dark, spice
-12 : chardonnay, pineappl, butter, oak, toast, flavor, vanilla, acid, rich, pear
-13 : wine, age, fruit, wood, structur, tannin, year, rich, firm, ripe
-14 : blanc, sauvignon, flavor, citrus, crisp, acid, green, lime, grapefruit, wine
+0 : berri, aroma, finish, plum, palat, flavor, feel, herbal, red, nose <br>
+1 : blackberri, currant, dri, tannin, flavor, cherri, rich, oak, drink, wine <br>
+2 : citrus, peach, finish, white, lemon, flavor, lime, palat, acid, wine <br>
+3 : sampl, barrel, wine, tannin, fruit, ripe, wood, structur, juici, veri <br>
+4 : appl, green, flavor, pear, finish, palat, citrus, wine, acid, aroma <br>
+5 : wine, acid, fruiti, fresh, fruit, attract, drink, ripe, soft, red <br>
+6 : light, fruit, wine, flavor, fresh, red, finish, cherri, acid, aroma <br>
+7 : wine, fruit, cherri, flavor, finish, tannin, red, spice, berri, note <br>
+8 : cabernet, sauvignon, blend, merlot, franc, petit, verdot, wine, syrah, cherri <br>
+9 : pinot, noir, cherri, cola, silki, flavor, raspberri, dri, acid, drink <br>
+10 : sweet, cherri, flavor, soft, simpl, tast, raspberri, like, candi, wine <br>
+11 : black, cherri, palat, aroma, tannin, fruit, plum, pepper, dark, spice <br>
+12 : chardonnay, pineappl, butter, oak, toast, flavor, vanilla, acid, rich, pear <br>
+13 : wine, age, fruit, wood, structur, tannin, year, rich, firm, ripe <br>
+14 : blanc, sauvignon, flavor, citrus, crisp, acid, green, lime, grapefruit, wine <br>
 
 Now I want to take a deeper look at each cluster. I want to see if there is one wine variation more prevalant than others in each of the clusters the kMeans algorithm found.
 
